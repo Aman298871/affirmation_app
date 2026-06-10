@@ -19,7 +19,6 @@ Daily Affirmations App is an Android application built using Kotlin, Jetpack Com
 ![image alt](https://github.com/Aman298871/affirmation_app/blob/a1b9a65274c475b0ec6b22f9d203de3410268810/photo_2026-06-10_20-22-30.jpg)
 ![image alt](https://github.com/Aman298871/affirmation_app/blob/a1b9a65274c475b0ec6b22f9d203de3410268810/photo_2026-06-10_20-22-32.jpg)
 ![image alt](https://github.com/Aman298871/affirmation_app/blob/a1b9a65274c475b0ec6b22f9d203de3410268810/photo_2026-06-10_20-22-34.jpg)
-![image alt](https://github.com/Aman298871/affirmation_app/blob/e90963d9d75c8636c11ee5141aa72bd494bfadbd/photo_2026-06-10_20-22-35.jpg)
 ![image alt](https://github.com/Aman298871/affirmation_app/blob/e90963d9d75c8636c11ee5141aa72bd494bfadbd/Screenshot%202026-06-10%20201447.png)
 ## Technologies Used
 
